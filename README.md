@@ -2,6 +2,7 @@
 <h3 align="center">A aspiring MEAN Stack developer exploring Node.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-avnish&label=Profile%20views&color=0e75b6&style=flat" alt="anand-avnish" /> </p>
+<!-- [![@avnishanand's Holopin board](https://holopin.io/api/user/board?user=avnishanand)](https://holopin.io/@avnishanand) -->
 
 <p align="left"> <a href="https://twitter.com/avnishanand1231" target="blank"><img src="https://img.shields.io/twitter/follow/avnishanand1231?logo=twitter&style=for-the-badge" alt="avnishanand1231" /></a> </p>
 
@@ -26,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-avnish&show_icons=true&locale=en&layout=compact" alt="anand-avnish" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-avnish&show_icons=true&locale=en" alt="anand-avnish" /></p>
+<p align="left"> <img src="https://holopin.io/api/user/board?user=avnishanand" alt="badges" /> </p>
