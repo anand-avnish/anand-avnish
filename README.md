@@ -1,16 +1,16 @@
 <h1 align="center">Hi fellow developers 👋, I'm Avnish Anand</h1>
-<h3 align="center">A aspiring MEAN Stack developer exploring Node.js.</h3>
+<h3 align="center">A MEAN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-avnish&label=Profile%20views&color=0e75b6&style=flat" alt="anand-avnish" /> </p>
 <!-- [![@avnishanand's Holopin board](https://holopin.io/api/user/board?user=avnishanand)](https://holopin.io/@avnishanand) -->
 
 <p align="left"> <a href="https://twitter.com/avnishanand1231" target="blank"><img src="https://img.shields.io/twitter/follow/avnishanand1231?logo=twitter&style=for-the-badge" alt="avnishanand1231" /></a> </p>
 
-- 🔭 I’m currently working on **A Task Manager Web App( To-Do App )**
+<!-- - 🔭 I’m currently working on **A Task Manager Web App( To-Do App )** -->
 
-- 🌱 I’m currently learning **Backend Development( Node.js )**
+<!-- - 🌱 I’m currently learning **Backend Development( Node.js )** -->
 
-- 💬 Ask me about **HTML, CSS, JS & Angular**
+- 💬 Ask me about **HTML, CSS, JS ,Angular ,Node Js & SQL**
 
 - 📫 How to reach me **anand.avnish1@gmail.com**
 
