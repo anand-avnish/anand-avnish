@@ -1,5 +1,5 @@
 <h1 align="center">Hi fellow developers 👋, I'm Avnish Anand</h1>
-<h3 align="center">A MEAN Stack developer</h3>
+<!-- <h3 align="center">A MEAN Stack developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-avnish&label=Profile%20views&color=0e75b6&style=flat" alt="anand-avnish" /> </p>
 <!-- [![@avnishanand's Holopin board](https://holopin.io/api/user/board?user=avnishanand)](https://holopin.io/@avnishanand) -->
