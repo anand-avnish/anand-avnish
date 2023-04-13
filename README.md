@@ -10,7 +10,7 @@
 
 <!-- - 🌱 I’m currently learning **Backend Development( Node.js )** -->
 
-- 💬 Ask me about **HTML, CSS, JS ,Angular ,Node Js & SQL**
+- 💬 Ask me about **HTML, CSS, JS, React ,Angular ,Node Js & SQL**
 
 - 📫 How to reach me **anand.avnish1@gmail.com**
 
